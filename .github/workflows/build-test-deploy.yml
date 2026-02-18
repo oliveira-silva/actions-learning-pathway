@@ -1,4 +1,4 @@
-name: hello-world
+name: npm-build
 on: push
 jobs: 
   hello-world-job:
